@@ -6,26 +6,26 @@ body {
 h1 {
 	text-align:center;
 	font-family: 'Great Vibes', cursive;
-	font-size: 65px;
+	font-size: 95px;
 	font-style: oblique;
 }
 img {
 	display: block;
 	margin: 10px auto;
-	width: 650px;
+	width: 950px;
 }
 p {
 	font-family: 'Great Vibes', cursive;
 	text-align: center;
-	font-size: 25px;
+	font-size: 65px;
 }
 
 .Misa {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	font-size: 20px;
+	font-size: 65px;
 }
 .cuandoydonde {
-	font-size: 40px;
+	font-size: 70px;
 }
 .cdv {
 	width: 400px;
@@ -45,18 +45,19 @@ p {
 	color: #333;
 }
 .cdvt {
-	font-size: 40px;
+	font-size: 60px;
 	font-style: italic;
 }
 .ConfirmarAsistencia {
-	font-size: 40px;
+	font-size: 70px;
 	font-style: italic;
 }
 .regalos {
-	font-size: 40px;
+	font-size: 70px;
 }
 .links {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 55px;
 }
 .MisaImagenes {
 	width: 800px;
@@ -64,7 +65,7 @@ p {
 	margin: 10px auto;
 }
 .fecha {
-	font-size: 40px;
+	font-size: 70px;
 }
 .sobreimg {
 	width: 300px;
@@ -76,14 +77,15 @@ p {
 }
 .ca {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 58px;
 }
 .cancion {
-	width: 500px;
+	width: 700px;
 	display: block;
 	margin: 10px auto;
 }
 audio {
-	width: 300px;
+	width: 900px;
 	height: 40px;
 	margin: 20px auto;
 	display: block;
@@ -101,9 +103,11 @@ audio {
 .izquierda {
 	text-align: left;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 27px;
 }
 
 .derecha {
 	text-align: left;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 27px;
 }
