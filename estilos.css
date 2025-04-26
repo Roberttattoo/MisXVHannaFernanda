@@ -65,7 +65,7 @@ p {
 	margin: 10px auto;
 }
 .fecha {
-	font-size: 90px, sans-serif !important;
+	font-size: 90px !important;
 }
 .sobreimg {
 	width: 300px;
@@ -112,5 +112,5 @@ audio {
 	font-size: 27px;
 }
 .micancion {
-	font-size: 65px, sans-serif !important;
+	font-size: 65px !important;
 }
