@@ -6,7 +6,7 @@ body {
 h1 {
 	text-align:center;
 	font-family: 'Great Vibes', cursive;
-	font-size: 95px;
+	font-size: 100px;
 	font-style: oblique;
 }
 img {
@@ -28,7 +28,7 @@ p {
 	font-size: 70px;
 }
 .cdv {
-	width: 400px;
+	width: 500px;
 	display: block;
 	margin: 10px auto;
 }
@@ -60,12 +60,12 @@ p {
 	font-size: 55px;
 }
 .MisaImagenes {
-	width: 800px;
+	width: 1000px;
 	display: block;
 	margin: 10px auto;
 }
 .fecha {
-	font-size: 70px;
+	font-size: 90px;
 }
 .sobreimg {
 	width: 300px;
@@ -110,4 +110,7 @@ audio {
 	text-align: left;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-size: 27px;
+}
+.micancion {
+	font-size: 65px;
 }
