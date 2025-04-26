@@ -15,7 +15,7 @@ img {
 	width: 950px;
 }
 p {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Great Vibes', cursive, sans-serif;
 	text-align: center;
 	font-size: 65px;
 }
@@ -65,7 +65,7 @@ p {
 	margin: 10px auto;
 }
 .fecha {
-	font-size: 90px;
+	font-size: 90px, sans-serif !important;
 }
 .sobreimg {
 	width: 300px;
@@ -112,5 +112,5 @@ audio {
 	font-size: 27px;
 }
 .micancion {
-	font-size: 65px;
+	font-size: 65px, sans-serif !important;
 }
