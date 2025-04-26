@@ -1,0 +1,109 @@
+@charset "UTF-8";
+body {
+	background: #92ac8f;
+	transition: background-color 1s ease;
+}
+h1 {
+	text-align:center;
+	font-family: 'Great Vibes', cursive;
+	font-size: 65px;
+	font-style: oblique;
+}
+img {
+	display: block;
+	margin: 10px auto;
+	width: 650px;
+}
+p {
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+	font-size: 25px;
+}
+
+.Misa {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+}
+.cuandoydonde {
+	font-size: 40px;
+}
+.cdv {
+	width: 400px;
+	display: block;
+	margin: 10px auto;
+}
+.cuadrocolor0 {
+	background-color: #b9ceb6;
+	padding: 20px;
+	margin: 40px auto;
+	width: 80%;
+	border-radius: 15px;
+	box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+	text-align: center;
+	font-family: 'Great Vibes', cursive;
+	font-size: 20px;
+	color: #333;
+}
+.cdvt {
+	font-size: 40px;
+	font-style: italic;
+}
+.ConfirmarAsistencia {
+	font-size: 40px;
+	font-style: italic;
+}
+.regalos {
+	font-size: 40px;
+}
+.links {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.MisaImagenes {
+	width: 800px;
+	display: block;
+	margin: 10px auto;
+}
+.fecha {
+	font-size: 40px;
+}
+.sobreimg {
+	width: 300px;
+	display: block;
+	margin: 10px auto;
+}
+.lluvia {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+.ca {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.cancion {
+	width: 500px;
+	display: block;
+	margin: 10px auto;
+}
+audio {
+	width: 300px;
+	height: 40px;
+	margin: 20px auto;
+	display: block;
+	border: 2px solid #AFD5B9;
+	border-radius: 20px;
+	background-color: yellowgreen;
+}
+.lineatexto {
+	display: flex;
+	justify-content: space-between;
+	padding: 0 20px;
+	font-family: 'Great Vibes', cursive;
+}
+
+.izquierda {
+	text-align: left;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.derecha {
+	text-align: left;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
