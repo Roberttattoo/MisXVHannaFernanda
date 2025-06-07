@@ -84,15 +84,6 @@ p {
 	display: block;
 	margin: 10px auto;
 }
-audio {
-	width: 900px;
-	height: 40px;
-	margin: 20px auto;
-	display: block;
-	border: 2px solid #AFD5B9;
-	border-radius: 20px;
-	background-color: yellowgreen;
-}
 .lineatexto {
 	display: flex;
 	justify-content: space-between;
@@ -113,4 +104,7 @@ audio {
 }
 .micancion {
 	font-size: 65px !important;
+}
+.Foto {
+	width: 450px;
 }
