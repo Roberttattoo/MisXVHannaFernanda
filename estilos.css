@@ -106,7 +106,16 @@ p {
 	font-size: 65px !important;
 }
 .Foto {
-	width: 950px;
+	width: 650px;
 	display: block;
 	margin: 20px auto;
+}
+.heywey {
+	display: block;
+    margin: 30px auto;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+	background-color:#0E8513;
+	color: #FFFFFF;
 }
